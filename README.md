@@ -2,9 +2,9 @@
 Mobile Application for Wardrobe, brand-drop reminders, and order tracking — built with Flutter.
 
 ## Team
-- Ben Bryant
-- Chinonye Omeife
-- Abdul-Matin Adelekan
+- Ben Bryant - DevOps Manager
+- Chinonye Omeife - Lead Developer
+- Abdul-Matin Adelekan - Project Manager
 
 ## Project Description
 Mobile app where users manage a digital wardrobe, follow brands drops, and track orders.
