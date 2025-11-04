@@ -1,5 +1,5 @@
 # Gated-Team-46 (Flutter)
-Wardrobe, brand-drop reminders, and order tracking — built with Flutter.
+Mobile Application for Wardrobe, brand-drop reminders, and order tracking — built with Flutter.
 
 ## Team
 - Ben Bryant
